@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/julio-valente-costa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp; [LinkedIn](https://linkedin.com/in/julio-valente-costa) · [juliovalente.com](https://juliovalente.com)
+<a href="https://linkedin.com/in/julio-valente-costa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp; [LinkedIn]
 <a href="https://github.com/julio3266" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a> &nbsp; [GitHub](https://github.com/julio3266)
 <a href="mailto:seu@email.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 <a href="https://instagram.com/seu_usuario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
