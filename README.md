@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.png" alt="Julio Valente Costa - Full Stack Developer" width="100%">
+  <img width="1536" height="1024" alt="41e8d968-72ac-4a9e-82f4-65f7d9efe468" src="https://github.com/user-attachments/assets/45038527-2db4-45e3-bfa6-e9dd7de458fb" />
 </div>
 
 ### Hi there <a href="https://github.com/julio3266"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
